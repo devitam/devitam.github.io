@@ -1,6 +1,6 @@
 ---
-permalink: 
-title: "About"
+permalink: /
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Mariano Devita's home on the web! Haciendo el máster en economía en [UdeSA](www.udesa.edu.ar)
+This is Mariano Devita's home on the web! Haciendo el máster en economía en [UdeSA](https://udesa.edu.ar/)
 
 <!-- A data-driven personal website
 ======
