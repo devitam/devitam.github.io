@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Mariano Devita's home on the web! Así es como se pega un link: haciendo el máster en economía en [UdeSA](www.udesa.edu.ar/departamento-de-economia)
+This is Mariano Devita's home on the web! Así es como se pega un link: haciendo el máster en economía en <a href="www.udesa.edu.ar/departamento-de-economia" target="blank">UdeSA</a>
 
 <!-- A data-driven personal website
 ======
