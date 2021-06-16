@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Mariano Devita's home on the web! Haciendo el máster en economía en [UdeSA](https://udesa.edu.ar/)
+This is Mariano Devita's home on the web! Pegar links: Haciendo el máster en economía en [UdeSA](https://udesa.edu.ar/departamento-de-economia/maestria-en-economia)
 
 <!-- A data-driven personal website
 ======
